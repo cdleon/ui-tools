@@ -1,5 +1,7 @@
 # UI Tools
 
+[![Build Status](https://api.travis-ci.org/cdleon/ui-tools.svg?branch=master)](https://travis-ci.org/cdleon/ui-tools)
+
 ## CSS
 
 - **Cross Browser Rendering & Consistency**
