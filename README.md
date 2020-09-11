@@ -34,7 +34,7 @@
 
   * [AmIResponsive](http://ami.responsivedesign.is/) - See your site responsive.
   * [Responsinator](http://www.responsinator.com/) - Responsinator helps website makers quickly get an indication of how their responsive site will look on the most popular devices.
-  * [Sizzy](https://github.com/kitze/sizzy) - A tool for testing responsive websites crazy-fast [https://sizzy.co](https://sizzy.co/)
+  * [Sizzy](https://github.com/doug-wade/sizzy) - A tool for testing responsive websites crazy-fast [https://sizzy.co](https://sizzy.co/)
   * [ViewPortResizer](http://lab.maltewassermann.com/viewport-resizer/) - Viewport resizer is a browser-based tool to test any website’s responsiveness.
 
 - **Transpilers**
@@ -67,7 +67,7 @@
 
   * [Benchmarks.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
   * [Jslitmus](https://github.com/broofa/jslitmus) - Simple, easy, javascript benchmark testing.
-  * [jsperf.com](https://github.com/jsperf/jsperf.com) - jsperf.com v2. [https://jsperf.com/](https://jsperf.com/)
+  * [jsperf.com](https://github.com/jsperf/jsperf.com) - jsperf.com v2.
   * [Justice](https://github.com/okor/justice) - Embeddable script for displaying web page performance metrics.
   * [Matcha](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
   * [Memory-stats.js](https://github.com/paulirish/memory-stats.js) - Minimal monitor for JS Heap Size via performance.memory.
@@ -86,12 +86,11 @@
 
 - **Debuggers**
 
-  * [Chrome DevTools App](https://github.com/auchenberg/chrome-devtools-app) - Chrome DevTools packaged as an app via Electron. [https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/](https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/)
   * [Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension) - Redux DevTools extension. [http://extension.remotedev.io](http://extension.remotedev.io)
 
 - **Editors**
 
-  * [Mesh](https://github.com/chrispsn/mesh) - Visualise data and edit JavaScript code using a spreadsheet interface. [http://chrispsn.com/try-mesh.html](http://chrispsn.com/try-mesh.html)
+  * [Mesh](https://github.com/chrispsn/mesh) - Visualise data and edit JavaScript code using a spreadsheet interface. [http://mesh-spreadsheet.com/](http://mesh-spreadsheet.com/)
 
 - **Formatters**
 
@@ -181,7 +180,6 @@
 
 - **Debuggers**
 
-  * [Chrome DevTools App](https://github.com/auchenberg/chrome-devtools-app) - Chrome DevTools packaged as an app via Electron. [https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/](https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/)
   * [Reactotron](https://github.com/reactotron/reactotron) - Control, monitor, and instrument your React and React Native apps from the comfort of your TTY. [https://github.com/reactotron/reactotron](https://github.com/reactotron/reactotron)
   * [Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension) - Redux DevTools extension. [http://extension.remotedev.io](http://extension.remotedev.io)
 
@@ -252,9 +250,6 @@
 
 
 ## Vue
-
-- **Debuggers**
-  * [Chrome DevTools App](https://github.com/auchenberg/chrome-devtools-app) - Chrome DevTools packaged as an app via Electron. [https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/](https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/)
 
 - **Generators**
   * [best-resume-ever ](https://github.com/salomonelli/best-resume-ever) - Build fast and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS. [https://salomonelli.github.io/best-resume-ever](https://salomonelli.github.io/best-resume-ever)
